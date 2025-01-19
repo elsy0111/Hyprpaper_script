@@ -57,10 +57,25 @@ cd Hyprpaper_script
 chmod +x wall.sh
 ```
 
-### 🤖 Usage
+## 🤖 Usage
 Run Hyprpaper_script using the following command:
 ```bash
 ./wall.sh
+```
+#### Exit During Selection
+Press `q` at any time during the wallpaper selection to exit the script.
+
+#### Directory Setup
+The script looks for wallpapers in `~/Pictures/wall` by default. To change the directory:
+1. Open the script in a text editor.
+2. Modify the value of `directory`:
+   ```bash
+   directory=/path/to/your/wallpapers
+   ```
+#### Help Menu
+To display the help menu, provide any argument to the script:
+```bash
+./wall.sh --help
 ```
 
 ## 🔰 Contributing
