@@ -1,7 +1,7 @@
 <div align="left" style="position: relative;">
 <h1>Hyprpaper_Script</h1>
 	
-<img src="https://logolist.net/wp-content/uploads/2024/04/favicon.svg" align="right" width="10%">
+<img src="https://logolist.net/wp-content/uploads/2024/04/favicon.svg" align="right" width="20%">
 <p align="left">
 	<em>change wallpaper more comfortable using this shell script !</em>
 </p>
