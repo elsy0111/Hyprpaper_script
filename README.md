@@ -1,6 +1,7 @@
 <div align="left" style="position: relative;">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>Hyprpaper_Script</h1>
+	
+<img src="https://logolist.net/wp-content/uploads/2024/04/favicon.svg" align="right" width="10%">
 <p align="left">
 	<em>change wallpaper more comfortable using this shell script !</em>
 </p>
@@ -18,23 +19,9 @@
 </div>
 <br clear="right">
 
-## 🔗 Table of Contents
-
-- [📍 Overview](#-overview)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Getting Started](#-getting-started)
-  - [⚙️ Installation](#-installation)
-  - [🤖 Usage](#🤖-usage)
-- [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
-
----
-
 ## 📍 Overview
 
 Hyprpaperscript simplifies setting wallpapers for multiple monitors with ease. Select wallpapers from a directory for each monitor interactively. Exit anytime during selection. Ideal for users managing wallpapers across multiple screens effortlessly.
-
----
 
 ## 📁 Project Structure
 
@@ -53,7 +40,6 @@ Hyprpaperscript simplifies setting wallpapers for multiple monitors with ease. S
   </table>
 </blockquote>
 
----
 ## 🚀 Getting Started
 
 ### ⚙️ Installation
@@ -76,14 +62,11 @@ Run Hyprpaper_script using the following command:
 ```bash
 ./wall.sh
 ```
----
 
 ## 🔰 Contributing
 
 - **🐛 [Report Issues](https://github.com/elsy0111/Hyprpaper_script/issues)**: Submit bugs found or log feature requests for the `Hyprpaper_script` project.
 - **💡 [Submit Pull Requests](https://github.com/elsy0111/Hyprpaper_script/pulls)**: Review open PRs, and submit your own PRs.
-
----
 
 ## 🎗 License
 
